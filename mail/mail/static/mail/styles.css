@@ -1,0 +1,46 @@
+textarea {
+    min-height: 400px;
+}
+
+#success {
+    color: green;
+    font: 20px Arial, sans-serif;
+}
+
+#error {
+    color: red;
+    font: 20px Arial, sans-serif;
+}
+
+.email-div {
+    font: 15px Arial, sans-serif;
+    border-style: ridge;
+    border-width: thin;
+    text-align: justify;
+    padding: 5px;
+}
+
+.btn-elem {
+    /* background-color: lightgray;
+    border-style: darkgray;
+    color: black;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer; */
+    position: relative;
+
+}
+
+.btn-reply {
+    /* background-color: lightgray;
+    border-style: darkgray;
+    color: black;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer; */
+    position: relative;
+}
